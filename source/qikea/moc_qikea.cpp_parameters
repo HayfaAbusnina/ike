@@ -1,0 +1,13 @@
+-I/home/habusnina/ike/source
+-I/home/habusnina/ike/source/ikec
+-I/home/habusnina/ike/source/libike
+-I/home/habusnina/ike/source/libidb
+-I/home/habusnina/ike/source/libith
+-I/home/habusnina/ike/source/liblog
+-DUNIX
+-DOPT_TIMEDLOCK
+-DOPT_NATT
+-DQT_THREAD_SUPPORT
+-o
+/home/habusnina/ike/source/qikea/moc_qikea.cpp
+/home/habusnina/ike/source/qikea/qikea.h
