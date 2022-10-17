@@ -40,7 +40,7 @@ whoami
 2.2. Replace “habusnina” to your username
 ```
 sed -i 's_habusnina_yourusername_gI' ~/ike/source/qikea/moc_qikea.cpp_parameters 
-sed -i 's_habusnina_yourusername_gI' ~/ike/source/qikec/moc_qikea.cpp_parameters
+sed -i 's_habusnina_yourusername_gI' ~/ike/source/qikec/moc_qikec.cpp_parameters
 ```
 
 ### 3. Install using following instructions
